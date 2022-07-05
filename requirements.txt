@@ -31,3 +31,4 @@ uvicorn==0.13.3
 watchgod==0.6
 websockets==8.1
 requests==2.28.0
+Union==0.1.10
